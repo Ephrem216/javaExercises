@@ -1,0 +1,6 @@
+Name      MN        LastN.    Score     
+----------------------------------------
+Ephrem    K.        Atnaf     94        
+Donald    J.        Trump     88        
+Emanuel   J.        Macron    74        
+Bruce     M.        Wayne     77        
